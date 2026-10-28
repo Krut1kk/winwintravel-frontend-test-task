@@ -1,0 +1,47 @@
+{
+	"MEAL_OPTIONS": {
+		"name": "Варіанти харчування",
+		"options": {
+			"breakfast": "Сніданок включено",
+			"lunch": "Обід включено",
+			"dinner": "Вечеря включена",
+			"all-inclusive": "Все включено"
+		}
+	},
+	"RULES_POLICIES_PAYMENT": {
+		"name": "Правила, умови та оплата",
+		"options": {
+			"free-cancellation": "Безкоштовне скасування",
+			"pets-allowed": "Можна з тваринами",
+			"non-smoking-room": "Номер для некурців"
+		}
+	},
+	"FACILITIES": {
+		"name": "Зручності",
+		"options": {
+			"private-bathroom": "Окрема ванна кімната",
+			"air-conditioning": "Кондиціонер",
+			"heating": "Опалення",
+			"coffee-tea-maker": "Кавоварка/чайник",
+			"shuttle-service": "Трансфер",
+			"wi-fi": "Wi-Fi",
+			"parking": "Парковка",
+			"pool": "Басейн"
+		}
+	},
+	"BED_TYPE": {
+		"name": "Тип ліжка",
+		"options": {
+			"twin-beds": "Два окремих ліжка",
+			"double-bed": "Двоспальне ліжко"
+		}
+	},
+	"HEALTH_ENTERTAINMENT_SPORTS": {
+		"name": "Здоров'я, розваги та спорт",
+		"options": {
+			"gym": "Тренажерний зал",
+			"spa": "Спа",
+			"sauna": "Сауна"
+		}
+	}
+}

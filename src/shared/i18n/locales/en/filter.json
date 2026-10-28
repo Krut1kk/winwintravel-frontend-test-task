@@ -1,8 +1,17 @@
 {
 	"title": "Filter",
 	"apply": "Apply",
+	"clear": "Clear all parameters",
 	"close": "Close",
 	"open": "Open filters",
+	"language": "Language",
+	"home": {
+		"title": "WinWinTravel frontend test task"
+	},
+	"empty": {
+		"title": "No filters selected yet",
+		"description": "Choose your preferences to customize the search."
+	},
 	"confirm": {
 		"title": "Do you want to apply new filter",
 		"cancel": "Use old filter",

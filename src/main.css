@@ -1,2 +1,15 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
+
+@theme {
+	--font-sans: 'Inter', sans-serif;
+	--color-grey-500: #31393c;
+	--color-grey-400: #474747;
+	--color-grey-200: #b4b4b4;
+	--color-brand-200: #ff5f00;
+	--color-primary-100: #078691;
+}
+
+html:has(dialog[open]) {
+	overflow: hidden;
+}
