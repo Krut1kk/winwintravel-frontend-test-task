@@ -1,1 +1,11 @@
-{}
+{
+	"title": "Filter",
+	"apply": "Apply",
+	"close": "Close",
+	"open": "Open filters",
+	"confirm": {
+		"title": "Do you want to apply new filter",
+		"cancel": "Use old filter",
+		"apply": "Apply new filter"
+	}
+}
